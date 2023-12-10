@@ -1,13 +1,19 @@
 # About Me
 
-Hi! I'm Colin. I like coding. I'm particularly interested in the following languages:
-- Nix
-- Svelte
-- Rust
-- Haskell
+Hi! I'm Colin. I like making things, whether that's code, computers, music, or key lime pie.
 
+## Interests:
 
-# Projects
+- NixOS, considering I use it and all
+- Svelte, my current go-to for web development
+- C, C++, Go, Rust, and Haskell, all for TUI apps
+- Music theory
 
-I work on lots of personal projects right now, though I take interest in some bigger projects too, such as Nixpkgs/NixOS and Helix.
-I'm currently working on a chat platform built with SvelteKit and Supabase!
+## Projects (either planned or ongoing):
+
+- Pulsar Chat, a WebSockets-based chat platform
+  - I've technically already made this, but the backend host went down
+- Typewriter, a text editor
+  - Hopefully modal, and hopefully in a language I've never written before
+- Legato, a client for MPD
+  - Probably in Go or Rust, depending on which I decide to figure out first
