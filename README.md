@@ -12,9 +12,8 @@ Hi! I'm Colin. I like making things, whether that's code, computers, music, or k
 
 ### Ongoing
 
-- Reflex, a text editor implemented in Rust
-  - Trying to take the best of Neovim, Helix, Vis, and other editors
-  - Repo going live when a minimum viable product is reached
+- [Reflex](https://github.com/colin-heffernan/reflex/), a text editor implemented in Rust
+  - Trying to take the best of Neovim, Helix, and other editors
 
 ### Planned
 
@@ -22,3 +21,5 @@ Hi! I'm Colin. I like making things, whether that's code, computers, music, or k
   - I've technically already made this, but the backend host went down
 - Legato, a client for MPD
   - Probably in Go or Rust, depending on which I decide to figure out first
+- Cosmos, a Lua-controlled GUI
+  - Heavily inspired by GNU Emacs, but hopefully with saner defaults
