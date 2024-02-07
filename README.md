@@ -1,12 +1,12 @@
-# About Me
+# Hi! I'm Colin. I make things.
 
-Hi! I'm Colin. I like making things, whether that's code, computers, music, or key lime pie.
+Sometimes it's software or hardware, occasionally it's music, and every now and again, it's a really good key lime pie.
 
 ## Interests
 
-- NixOS, considering I use it and all
-- Rust for TUI apps
-- Music theory
+- The Nix ecosystem, which I interact with on a daily basis
+- Rust, which is my current go-to language for projects
+- Music theory, a lifelong interest I've finally decided to pursue
 
 ## Projects
 
